@@ -1,0 +1,9 @@
+Score: 100
+
+== junit ==
+edu.wit.cs.comp2350.grading.A2Grading#test0_Empty: +5
+edu.wit.cs.comp2350.grading.A2Grading#test1_Small: +70
+edu.wit.cs.comp2350.grading.A2Grading#test2_RandInts: +5
+edu.wit.cs.comp2350.grading.A2Grading#test3_RandFloats: +9
+edu.wit.cs.comp2350.grading.A2Grading#test4_Big: +9
+edu.wit.cs.comp2350.grading.A2Grading#test5_PublicMethods: +2
